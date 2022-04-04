@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: estacao_vazao
+- file: analise_anual
+- file: analise_cincoanos
+- file: comparacao_clienteons
+- file: analise_anualsemmedia
+- file: analise_anualcomhorario
+- file: analise_horaria
